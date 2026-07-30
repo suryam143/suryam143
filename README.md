@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi 👋, I'm Suryam
 
-<!--
-**suryam143/suryam143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student (Information Technology)
 
-Here are some ideas to get you started:
+🚀 Passionate about AI, Full-Stack Development, and Building Real-World Applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently building **ContentOS** – an AI-powered content operating system
+- 💡 Exploring **Generative AI, Automation, and AI Agents**
+- 💻 Learning Full Stack Development with React, Node.js & Supabase
+- 🎯 Goal: Build AI products that solve real-world problems
+- 🤝 Always learning and building
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- JavaScript
+- TypeScript
+- Python
+- SQL
+
+### Frontend
+
+- React
+- Tailwind CSS
+- Vite
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Database
+
+- Supabase
+- PostgreSQL
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Vercel
+- Postman
+
+---
+
+## 🚀 Current Projects
+
+- 🤖 ContentOS
+- 📈 TrendPilot AI
+- 🖨 PrintFlow
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/suryam143
+- LinkedIn: (Add your LinkedIn URL here)
+
+---
+
+⭐ Thanks for visiting my profile!
