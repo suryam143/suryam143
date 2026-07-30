@@ -8,11 +8,12 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently building **ContentOS** – an AI-powered content operating system
-- 💡 Exploring **Generative AI, Automation, and AI Agents**
-- 💻 Learning Full Stack Development with React, Node.js & Supabase
-- 🎯 Goal: Build AI products that solve real-world problems
-- 🤝 Always learning and building
+
+🔭 Currently building AI-powered full-stack applications with React, Node.js, and Supabase.
+
+🤖 Interested in Generative AI, AI Agents, and Automation.
+
+🎯 My goal is to build AI products that solve real-world problems.
 
 ---
 
