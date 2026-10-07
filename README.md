@@ -64,7 +64,7 @@
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/suryam143
-- LinkedIn: (Add your LinkedIn URL here)
+- LinkedIn: https://www.linkedin.com/in/amaram-suryam-930470313?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
